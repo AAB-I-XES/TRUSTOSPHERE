@@ -1,0 +1,13 @@
+node_modules/
+.venv/
+__pycache__/
+.env
+.env.*
+dist/
+build/
+*.pyc
+.DS_Store
+uploads/
+models/*.bin
+models/*.pt
+models/*.onnx
